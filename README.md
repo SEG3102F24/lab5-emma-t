@@ -4,6 +4,14 @@
 Name: Ethan Tang <br /> 
 Student No.: 300231965 <br /> <br /> 
 
+Home page for adding employee, you can click the top left to get the list of all employees from the firestore. <br /> 
+![image](https://github.com/user-attachments/assets/d397feac-9f40-4cc0-860b-f8e693d70505) <br />  <br /> 
+
+List of employees from the firestore. You can click the top left button to add more employees but the ones listed are already existing in it.  <br /> 
+![image](https://github.com/user-attachments/assets/c93735ba-373c-4f66-9312-bf7a1537d87d)
+ <br />  <br /> 
+
+
 # EmployeeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
